@@ -7,5 +7,5 @@ Modalités pédagogiques
 Travail en binôme, choix libre pour les technos de web scraping, de bdd et de dataviz. Tous les choix techniques sont à justifier.
 Critères de performance
 
-Un dataset en base alimenté par le web scraping. Une dataviz lisible, avec des KPI bien choisis.
+Un dataset en base alimenté par le web scraping. Une dataviz lisible et des critéres de performances bien choisis.
 
